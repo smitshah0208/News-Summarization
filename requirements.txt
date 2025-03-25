@@ -1,0 +1,9 @@
+ipykernel
+requests
+beautifulsoup4
+lxml-html-clean  
+nltk
+scikit-learn
+spacy
+openai
+dotenv
