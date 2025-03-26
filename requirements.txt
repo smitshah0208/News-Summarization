@@ -5,5 +5,9 @@ lxml-html-clean
 nltk
 scikit-learn
 spacy
-openai
 dotenv
+google-genai
+uvicorn
+fastapi
+gtts
+googletrans
