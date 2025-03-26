@@ -11,3 +11,6 @@ uvicorn
 fastapi
 gtts
 googletrans
+streamlit
+plotly
+pandas
