@@ -14,3 +14,4 @@ googletrans
 streamlit
 plotly
 pandas
+deep_translator
