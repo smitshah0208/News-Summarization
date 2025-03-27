@@ -1,6 +1,7 @@
 # AI News Summarizer with Text-to-Speech
 
-**Introduction:** This application provides AI-powered news summarization with text-to-speech capabilities, delivering concise and accessible summaries of company-related news.
+**Introduction:** 
+This application provides AI-powered news summarization with text-to-speech capabilities, delivering concise and accessible summaries of company-related news.
 
 ## Features
 
@@ -33,3 +34,10 @@
 * Hugging Face account.
 * Gemini API key.
 
+## Key Features & Workflow:
+
+```mermaid
+graph LR
+    A[Scrape News] --> B{Summarization & Analysis};
+    B --> C[Final Sentiment using Audio];
+    C --> D[Display Summary Insights Generation];
