@@ -1,0 +1,6 @@
+venv/
+audio_outputs/
+summarization/__pycache__/
+__pycache__/
+.gitignore/
+.env/
