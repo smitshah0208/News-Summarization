@@ -39,5 +39,5 @@ This application provides AI-powered news summarization with text-to-speech capa
 ```mermaid
 graph LR
     A[Scrape News] --> B{Summarization & Analysis};
-    B --> C[Final Sentiment using Audio];
-    C --> D[Display Summary Insights Generation];
+    B --> C[Display Summary Insights Generation];
+    C --> D[Final Sentiment using Audio];
